@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1,
+    "Mau_ChucVu": 1,
+    "NhanSu": "TDI.000519",
+    "ThuTu": 1
+  },
+  {
+    "ID": 19,
+    "Mau_ChucVu": 15,
+    "NhanSu": "TDI.00005",
+    "ThuTu": 1
+  },
+  {
+    "ID": 28,
+    "Mau_ChucVu": 14,
+    "NhanSu": "TDI.000518",
+    "ThuTu": 1
+  },
+  {
+    "ID": 29,
+    "Mau_ChucVu": 20,
+    "NhanSu": "TDI.000518",
+    "ThuTu": 1
+  },
+  {
+    "ID": 41,
+    "Mau_ChucVu": 26,
+    "NhanSu": "TDI.000517",
+    "ThuTu": 1
+  },
+  {
+    "ID": 43,
+    "Mau_ChucVu": 28,
+    "NhanSu": "TDI.00251",
+    "ThuTu": 1
+  },
+  {
+    "ID": 45,
+    "Mau_ChucVu": 30,
+    "NhanSu": "TDI.00251",
+    "ThuTu": 1
+  },
+  {
+    "ID": 48,
+    "Mau_ChucVu": 33,
+    "NhanSu": "TDI.00251",
+    "ThuTu": 1
+  },
+  {
+    "ID": 51,
+    "Mau_ChucVu": 36,
+    "NhanSu": "TDI.00251",
+    "ThuTu": 1
+  },
+  {
+    "ID": 55,
+    "Mau_ChucVu": 41,
+    "NhanSu": "TDI.00251",
+    "ThuTu": 1
+  }
+]
