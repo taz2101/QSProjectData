@@ -1,0 +1,72 @@
+[
+  {
+    "DonHangID": "DH001",
+    "STT": 1,
+    "ChungLoai": "Chữ thập HDPE 110",
+    "QuyCach": "",
+    "XuatXu": "Hathaco hàn",
+    "DonVi": "cái",
+    "SoLuongNhap": 2,
+    "GhiChu": ""
+  },
+  {
+    "DonHangID": "DH001",
+    "STT": 2,
+    "ChungLoai": "Cút 90 độ HDPE 75",
+    "QuyCach": "",
+    "XuatXu": "Hathaco ren",
+    "DonVi": "cái",
+    "SoLuongNhap": 2,
+    "GhiChu": "phủ bì"
+  },
+  {
+    "DonHangID": "DH001",
+    "STT": 3,
+    "ChungLoai": "Măng sông HDPE 75",
+    "QuyCach": "",
+    "XuatXu": "Hathaco ren",
+    "DonVi": "cái",
+    "SoLuongNhap": 18,
+    "GhiChu": ""
+  },
+  {
+    "DonHangID": "DH001",
+    "STT": 4,
+    "ChungLoai": "Nút bịt HDPE 75",
+    "QuyCach": "",
+    "XuatXu": "Hathaco ren",
+    "DonVi": "cái",
+    "SoLuongNhap": 8,
+    "GhiChu": ""
+  },
+  {
+    "DonHangID": "DH001",
+    "STT": 5,
+    "ChungLoai": "Măng sông ren ngoài HDPE",
+    "QuyCach": "25x3/4\"",
+    "XuatXu": "Hathaco ren",
+    "DonVi": "cái",
+    "SoLuongNhap": 101,
+    "GhiChu": ""
+  },
+  {
+    "DonHangID": "DH001",
+    "STT": 6,
+    "ChungLoai": "Đai khởi thủy bulong mạ HDPE",
+    "QuyCach": "160x3/4\"",
+    "XuatXu": "Hathaco ren",
+    "DonVi": "cái",
+    "SoLuongNhap": 1,
+    "GhiChu": ""
+  },
+  {
+    "DonHangID": "DH001",
+    "STT": 7,
+    "ChungLoai": "Đai khởi thủy bulong mạ HDPE",
+    "QuyCach": "75x3/4\"",
+    "XuatXu": "Hathaco ren",
+    "DonVi": "cái",
+    "SoLuongNhap": 101,
+    "GhiChu": ""
+  }
+]
